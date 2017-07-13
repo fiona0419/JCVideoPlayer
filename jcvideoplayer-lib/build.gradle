@@ -26,7 +26,7 @@ def getLayoutLibPath() {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile 'com.android.support:appcompat-v7:25.3.1'
     // Layout Lib for Android System API
     provided files(getLayoutLibPath())
 
