@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tips_not_wifi">ਤੁਸੀਂ ਇਸ ਵੇਲੇ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਵਰਤ ਰਹੇ ਹੋ, ਪਲੇਅਰ ਨੂੰ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖਣ ਨਾਲ ਟਰੈਫਿਕ ਵਰਤਿਆ ਜਾਵੇਗਾ</string>
+    <string name="tips_not_wifi_confirm">"ਦੁਬਾਰਾ ਸ਼ੁਰੂ ਕਰੋ"</string>
+    <string name="tips_not_wifi_cancel">ਚਲਾਉਣਾ ਰੋਕੋ</string>
+    <string name="tips_not_network"><Data><![CDATA[ਨੈੱਟਵਰਕ ਕਨੈਕਟ ਨਹੀਂ ਹੈ, ਜਾਂਚ ਕਰੋ<br/><br/><font color="#00ff00">ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਲਈ ਟੈਪ ਕਰੋ</font>]]></Data></string>
+    <string name="no_url">mUrl ਨਹੀਂ</string>
+    <string name="up_down_adjust_volume">ਵਾਲੀਅਮ ਨੂੰ ਅਡਜੱਸਟ ਕਰਨ ਲਈ ਉੱਤੇ ਤੇ ਹੇਠਾਂ</string>
+    <string name="up_down_adjust_light">ਰੌਸ਼ਨੀ ਨੂੰ ਅਡਜੱਸਟ ਕਰਨ ਲਈ ਉੱਤੇ ਤੇ ਹੇਠਾਂ</string>
+    <string name="sure">ਠੀਕ</string>
+    <string name="tips_load_failed"><Data><![CDATA[ਗਲਤੀ ਆਈ<br/><br/><font color="#00ff00">ਮੁੜ-ਕੋਸ਼ਿਸ਼ ਲਈ ਟੈਪ ਕਰੋ</font>]]></Data></string>
+    <string name="tips_video_invalid">ਅਫਸੋਸ, ਇਹ ਵੀਡੀਓ ਹਟਾਈ ਜਾ ਚੁੱਕੀ ਹੈ</string>
+</resources>

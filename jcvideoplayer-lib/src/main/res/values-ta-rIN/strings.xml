@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tips_not_wifi">தற்போது மொபைல் நெட்வொர்க் பயன்படுத்துகிறீர்கள், பிளேயர் தொடர்ந்து டிராஃபிக்கை பயன்படுத்தும்</string>
+    <string name="tips_not_wifi_confirm">"மீண்டும் தொடங்கு"</string>
+    <string name="tips_not_wifi_cancel">இயக்கலை நிறுத்து</string>
+    <string name="tips_not_network"><Data><![CDATA[நெட்வொர்க் இணைக்கவில்லை, சரிபாருங்கள்<br/><br/><font color="#00ff00">மீண்டும் முயற்சிக்க தட்டு</font>]]></Data></string>
+    <string name="no_url">mUrl இல்லை</string>
+    <string name="up_down_adjust_volume">ஒலியளவைச் சரிசெய்ய, மேலும் கீழும்</string>
+    <string name="up_down_adjust_light">வெளிச்சத்தைச் சரிசெய்ய, மேலும் கீழும்</string>
+    <string name="sure">சரி</string>
+    <string name="tips_load_failed"><Data><![CDATA[ஒரு பிழை நிகழ்ந்தது<br/><br/><font color="#00ff00">மீண்டும் முயற்சிக்க தட்டு</font>]]></Data></string>
+    <string name="tips_video_invalid">மன்னிக்கவும், இந்த வீடியோ அகற்றப்பட்டு விட்டது</string>
+</resources>

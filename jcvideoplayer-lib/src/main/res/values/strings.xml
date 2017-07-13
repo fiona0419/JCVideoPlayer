@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tips_not_wifi">You are currently using the mobile network, the player will continue to consume traffic</string>
+    <string name="tips_not_wifi_confirm">Resume</string>
+    <string name="tips_not_wifi_cancel">Stop play</string>
+    <string name="tips_not_network"><Data><![CDATA[Network not connect, please check<br/><br/><font color="#00ff00">Tap to retry</font>]]></Data></string>
+    <string name="no_url">No mUrl</string>
+    <!--video_play_guide-->
+    <string name="up_down_adjust_volume">Up and down to adjust volume</string>
+    <string name="up_down_adjust_light">Up and down to adjust light</string>
+    <string name="sure">OK</string>
+    <string name="tips_load_failed"><Data><![CDATA[An error occurred<br/><br/><font color="#00ff00">Tap to retry</font>]]></Data></string>
+    <string name="tips_video_invalid">Sorry, this video has been removed</string>
+    <string name="time_play_origin" translatable="false">00:00</string>
+</resources>

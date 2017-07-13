@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tips_not_wifi">તમે હાલમાં મોબાઇલ નેટવર્કનો ઉપયોગ કરી રહ્યાં છો, ખેલાડી ટ્રાફિકનો ઉપયોગ કરવાનું ચાલુ રાખશે</string>
+    <string name="tips_not_wifi_confirm">"ફરી શરૂ કરો"</string>
+    <string name="tips_not_wifi_cancel">રમવાનું રોકો</string>
+    <string name="tips_not_network"><Data><![CDATA[નેટવર્ક કનેક્ટ નથી, કૃપા કરીને તપાસો<br/><br/><font color="#00ff00">ફરીથી પ્રયાસ કરવા માટે ટેપ કરો</font>]]></Data></string>
+    <string name="no_url">કોઈ mUrl નથી</string>
+    <string name="up_down_adjust_volume">વોલ્યુમ સંતુલિત કરવા માટે ઉપર અને નીચે કરો</string>
+    <string name="up_down_adjust_light">લાઈટ સંતુલિત કરવા માટે ઉપર અને નીચે કરો</string>
+    <string name="sure">"ઓકે"</string>
+    <string name="tips_load_failed"><Data><![CDATA[એક ભૂલ થઇ<br/><br/><font color="#00ff00">ફરીથી પ્રયાસ કરવા માટે ટેપ કરો</font>]]></Data></string>
+    <string name="tips_video_invalid">માફ કરશો, આ વિડિઓ દૂર કરવામાં આવ્યો છે</string>
+</resources>

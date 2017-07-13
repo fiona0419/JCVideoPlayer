@@ -1,0 +1,41 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 16
+        targetSdkVersion 23
+        versionCode 39
+        versionName "4.6.3"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+// must called after "android" definition
+def getLayoutLibPath() {
+    return "${android.getSdkDirectory().getAbsolutePath()}" + "/platforms/" + android.compileSdkVersion + "/data/layoutlib.jar"
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:25.0.0'
+    // Layout Lib for Android System API
+    provided files(getLayoutLibPath())
+
+    //required, enough for most devices.
+    compile 'tv.danmaku.ijk.media:ijkplayer-java:0.6.2'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.6.2'
+    //Other ABIs: optional
+//    compile 'tv.danmaku.ijk.media:ijkplayer-armv5:0.6.2'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-arm64:0.6.2'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-x86:0.6.2'
+//    compile 'tv.danmaku.ijk.media:ijkplayer-x86_64:0.6.2'
+}

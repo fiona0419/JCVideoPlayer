@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tips_not_wifi">మీరు ప్రస్తుతం మొబైల్ నెట్‌వర్క్ ఉపయోగిస్తున్నారు, ప్లేయర్ ట్రాఫిక్‌ని వినియోగిస్తుంది</string>
+    <string name="tips_not_wifi_confirm">"పునఃప్రారంభించు"</string>
+    <string name="tips_not_wifi_cancel">ప్లే చేయడం ఆపండి</string>
+    <string name="tips_not_network"><Data><![CDATA[నెట్‌వర్క్ కనెక్ట్ చేయబడలేదు, దయచేసి చెక్ చేయండి<br/><br/><font color="#00ff00">తిరిగి ప్రయత్నించడానికి తట్టండి</font>]]></Data></string>
+    <string name="no_url">mUrl లేదు</string>
+    <string name="up_down_adjust_volume">వాల్యూం సర్దుబాటు చేయడానికి పైకి మరియు కిందకు కదిలించండి</string>
+    <string name="up_down_adjust_light">లైటు సర్దుబాటు చేయడానికి పైకి మరియు కిందకు కదిలించండి</string>
+    <string name="sure">సరే</string>
+    <string name="tips_load_failed"><Data><![CDATA[ఒక దోషం చోటు చేసుకున్నది<br/><br/><font color="#00ff00">తిరిగి ప్రయత్నించడానికి తట్టండి</font>]]></Data></string>
+    <string name="tips_video_invalid">క్షమించండి, ఈ వీడియో తొలగించబడింది</string>
+</resources>

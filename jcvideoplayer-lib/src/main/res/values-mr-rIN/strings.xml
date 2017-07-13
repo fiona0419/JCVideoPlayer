@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tips_not_wifi">आपण सध्या मोबाईल नेटवर्क वापरत आहात, प्लेअर रहदारी वापरणे सुरू ठेवेल</string>
+    <string name="tips_not_wifi_confirm">"पुन्हा सुरु करा"</string>
+    <string name="tips_not_wifi_cancel">प्ले करणे थांबवा</string>
+    <string name="tips_not_network"><Data><![CDATA[नेटवर्क कनेक्ट नाही, कृपया तपासा<br/><br/><font color="#00ff00">पु्न्हा प्रयत्न करण्यासाठी टॅप करा</font>]]></Data></string>
+    <string name="no_url">mUrl नाही</string>
+    <string name="up_down_adjust_volume">ध्वनी समायोजित करण्यासाठी वर आणि खाली करा</string>
+    <string name="up_down_adjust_light">प्रकाश समायोजित करण्यासाठी वर आणि खाली करा</string>
+    <string name="sure">ठीक आहे</string>
+    <string name="tips_load_failed"><Data><![CDATA[एखादी त्रुटी आली<br/><br/><font color="#00ff00">पु्न्हा प्रयत्न करण्यासाठी टॅप करा</font>]]></Data></string>
+    <string name="tips_video_invalid">माफ करा, हा व्हिडिओ काढला गेला</string>
+</resources>

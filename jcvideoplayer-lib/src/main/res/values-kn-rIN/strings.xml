@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="tips_not_wifi">ನೀವು ಪ್ರಸ್ತುತ ಮೊಬೈಲ್ ನೆಟ್‍ವರ್ಕ್ ಉಪಯೋಗಿಸುತ್ತಿದ್ದೀರಿ, ಟ್ರಾಫಿಕ್ ಬಳಸುವುದನ್ನು ಪ್ಲೇಯರ್ ಮುಂದುವರಿಸುತ್ತದೆ</string>
+    <string name="tips_not_wifi_confirm">"ಮುಂದುವರಿಸು"</string>
+    <string name="tips_not_wifi_cancel">ಪ್ಲೇ ನಿಲ್ಲಿಸಿ</string>
+    <string name="tips_not_network"><Data><![CDATA[ನೆಟ್‍ವರ್ಕ್ ಗೆ ಸಂಪರ್ಕವಾಗಲಿಲ್ಲ, ದಯವಿಟ್ಟು ಪರೀಕ್ಷಿಸಿ<br/><br/><font color="#00ff00">ಪುನಃ ಪ್ರಯತ್ನಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</font>]]></Data></string>
+    <string name="no_url">mUrl ಇಲ್ಲ</string>
+    <string name="up_down_adjust_volume">ವಾಲ್ಯೂಂ ಹೊಂದಿಸಲು ಮೇಲೆ ಕೆಳಗೆ</string>
+    <string name="up_down_adjust_light">ಬೆಳಕು ಹೊಂದಿಸಲು ಮೇಲೆ ಕೆಳಗೆ</string>
+    <string name="sure">ಸರಿ</string>
+    <string name="tips_load_failed"><Data><![CDATA[ದೋಷ ಕಂಡುಬಂದಿದೆ<br/><br/><font color="#00ff00">ಪುನಃ ಪ್ರಯತ್ನಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ</font>]]></Data></string>
+    <string name="tips_video_invalid">ಕ್ಷಮಿಸಿ, ಈ ವೀಡಿಯೊವನ್ನು ತೆಗೆಯಲಾಗಿದೆ</string>
+</resources>

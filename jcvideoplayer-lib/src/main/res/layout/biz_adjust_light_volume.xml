@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true">
+
+    <!--亮度-->
+    <FrameLayout
+        android:id="@+id/brightness"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/brightness" />
+
+        <fm.jiecao.jcvideoplayer_lib.xclub.CircleProgressBar
+            android:id="@+id/progressBar_brightness"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:progress_color="@color/color_05c76e"
+            app:progress_src="@drawable/brightness"
+            app:progress_width="3dp" />
+
+    </FrameLayout>
+
+    <!--音量-->
+    <FrameLayout
+        android:id="@+id/volume"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/img_volume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/volume" />
+
+        <ImageView
+            android:id="@+id/img_volume_silence"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/volume_silence"
+            android:visibility="gone" />
+
+        <fm.jiecao.jcvideoplayer_lib.xclub.CircleProgressBar
+            android:id="@+id/progressBar_volume"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:progress_color="@color/color_05c76e"
+            app:progress_src="@drawable/volume"
+            app:progress_width="3dp" />
+
+    </FrameLayout>
+
+</merge>
